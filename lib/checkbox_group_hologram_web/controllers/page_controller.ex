@@ -1,0 +1,7 @@
+defmodule CheckboxGroupHologramWeb.PageController do
+  use CheckboxGroupHologramWeb, :controller
+
+  def home(conn, _params) do
+    render(conn, :home)
+  end
+end
