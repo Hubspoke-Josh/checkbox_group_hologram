@@ -11,6 +11,7 @@ defmodule CheckboxGroupHologramApp.MainLayout do
         <meta charset="utf-8" />
         <title>Checkbox Group Test</title>
         <Runtime />
+        <link rel="stylesheet" href={asset_path("assets/css/app.css")} />
       </head>
       <body>
         <main>
